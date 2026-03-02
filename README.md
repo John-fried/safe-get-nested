@@ -29,7 +29,7 @@ console.log(safeGet(user, 'profile.address.city')); // undefined (No Error!)
 ```
 
 ## Quick test / Examples
-```
+```javascript
 const data = {
     a: {
         b: {
